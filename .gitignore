@@ -1,0 +1,41 @@
+# Node.js Dependencies
+node_modules/
+
+# Expo Directories
+.expo/
+dist/
+web-build/
+
+# Native Build Files
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro Bundler Files
+.metro-health-check*
+
+# Debug Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS System Files
+.DS_Store
+*.pem
+
+# Environment Variables
+.env
+.env*.local
+
+# TypeScript Build Info
+*.tsbuildinfo
+
+# Expo CLI Generated Files
+expo-env.d.ts
+
+# Expo CLI Sync Files
+# @generated expo-cli sync-2b81b286409207a5da26e14c78851eb30d8ccbdb
+# @end expo-cli
